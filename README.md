@@ -1,1 +1,1 @@
-# An attempt to built simple general parallel data loader 
+# An attempt to build simple general parallel data loader 
