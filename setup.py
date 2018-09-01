@@ -4,7 +4,7 @@ setup(
     name='dalo',
     version='0.0.1',
     packages=find_packages(),
-    description='DaLo',
+    description='dalo',
     author='Vlad Shmyhlo',
     author_email='aion.stu@gmail.com',
     url='https://github.com/v-shmyhlo/dalo')
